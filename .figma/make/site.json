@@ -1,0 +1,10 @@
+{
+  "description": "An editable web engineering lab mockup that presents the solution to question 2, helping students review and adapt the required layout.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
